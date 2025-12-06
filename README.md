@@ -41,7 +41,7 @@ This system allows users to book hotel rooms online and enables the admin to man
 ## 🛠️ Technologies Used
 - **Backend:** PHP  
 - **Database:** MySQL  
-- **Frontend:** HTML, CSS, JavaScript (optional)  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Server:** Apache / XAMPP / WAMP  
 
 ---
