@@ -52,6 +52,9 @@ This system allows users to book hotel rooms online and enables the admin to man
    ```bash
    git clone <repository-url>
 
+
+   ![Reservation Page](images/no1.png)
+![Dashboard](images/no2.png)
 <p align="center">Made with ❤️ by <strong>Feeroz Khan</strong></p>
 
 <p align="center">
