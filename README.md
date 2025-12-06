@@ -52,9 +52,10 @@ This system allows users to book hotel rooms online and enables the admin to man
    ```bash
    git clone <repository-url>
 
+<p align="center">Made with ❤️ by <strong>Feeroz Khan</strong></p> <p align="center"> <a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"> </a> </p>
 
-   ![Reservation Page](images/no1.png)
-![Dashboard](images/no2.png)
+
+
 <p align="center">Made with ❤️ by <strong>Feeroz Khan</strong></p>
 
 <p align="center">
