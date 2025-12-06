@@ -52,7 +52,7 @@ This system allows users to book hotel rooms online and enables the admin to man
    ```bash
    g## 🖼 Screenshots
 
-### Reservation Page
+### HOME  Page
 ![Reservation Page](images/no1.png)
 
 ### Admin Dashboard
